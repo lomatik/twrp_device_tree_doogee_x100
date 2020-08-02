@@ -1,0 +1,1 @@
+# twrp_device_tree_doogee_x100
