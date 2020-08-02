@@ -1,1 +1,1 @@
-# twrp_device_tree_doogee_x100
+# TWRP Device tree for DOOGEE X100 MTK6580 Android 8.1
